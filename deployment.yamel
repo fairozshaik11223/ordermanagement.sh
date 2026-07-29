@@ -1,0 +1,14 @@
+app:
+  name: "My Awesome App"
+  version: "1.0.2"
+  debug_mode: true
+
+database:
+  host: "localhost"
+  port: 5432
+  users:
+    - "admin"
+    - "developer"
+    - "viewer"
+I am a learner
+I am a student of kkdevops
